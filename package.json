@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/IliaKrylatykh/study_project_2#readme",
   "devDependencies": {
-    "json-server": "^0.17.1"
+    "json-server": "^0.17.1",
+    "webpack-cli": "^5.0.1"
   },
   "dependencies": {
     "json-server": "^0.17.1",
